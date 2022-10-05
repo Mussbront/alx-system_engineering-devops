@@ -8,3 +8,4 @@ Contents of a directory in long format with numerical ID
 8. Script to delete file in an absolute path
 9. Script to delete directory in a directory
 10. Script to change directory to previous one
+11. Script to list contents of current, parent and root directories
