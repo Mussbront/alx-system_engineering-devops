@@ -5,4 +5,5 @@ Script to display current directory contents
 Contents of a directory in long format with numerical ID
 6. Script to create a directory in another directory
 7. Script to move a file from one directory to another
-
+8. Script to delete file in an absolute path
+9. 
